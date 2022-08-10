@@ -6,7 +6,7 @@ Hi, I'm DarkShark96_!
 </h1>
 <p align="center">
 	<a href="https://github.com/DShark96">
-		<img src="https://komarev.com/ghpvc/?username=DShark96&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=DShark96&label=Profile%20views&color=0e75b6&style=flat" alt="dshark96" />
 	</a>
 	<a href="https://github.com/DShark96">
 		<img src="https://img.shields.io/github/followers/DShark96?label=Followers" alt="dshark96" />
