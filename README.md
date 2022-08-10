@@ -31,7 +31,7 @@ Hi, I'm DarkShark96_!
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="https://discordapp.com/channels/@me/324966723960700938/"><img img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+	<a href="https://discordapp.com/channels/@me/324966723960700938/"><img img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 	<a href="https://github.com/DShark96"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
