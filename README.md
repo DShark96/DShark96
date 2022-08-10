@@ -25,6 +25,7 @@ Hi, I'm DarkShark96_!
 💻 I am a Developer
 🌱 Learning about Java (Mainly the development of plugins for Minecraft)
 🌟 Main languages: Java, JavaScript, C++, C#
+📒 I am currently studying computer science at the ITTS Ercolino Scalfaro
 </pre>
 <hr>
 
