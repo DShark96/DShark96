@@ -76,14 +76,6 @@ Hi, I'm DarkShark96_!
     <a href="https://github.com/DShark96"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-### 🥅 Other things I use
-<p>
-    <a href="https://github.com/DShark96"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
-    <a href="https://github.com/DShark96"><img alt="TOR" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white"></a>
-    <a href="https://github.com/DShark96"><img alt="DuckDuckGo" src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white"></a>
-    <a href="https://github.com/DShark96"><img alt="Motorola" src="https://img.shields.io/badge/Motorola-%23E1140A.svg?style=for-the-badge&logo=motorola&logoColor=white"></a>
-</p>
-
 ## <a href="https://github.com/DShark96"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
